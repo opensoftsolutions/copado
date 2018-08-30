@@ -1,0 +1,9 @@
+src/installedPackages/*
+src/classes/copado_*
+src/classes/triggers/copado_*
+src/pages/copado_*
+src/translations/*
+src/objectTranslations/*
+src/sites/*
+src/siteDotComSites/*
+src.package.xml
